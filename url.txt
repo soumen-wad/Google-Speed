@@ -1,0 +1,1 @@
+https://css-tricks.com/the-complete-guide-to-lazy-loading-images/#chapter-3-lazy-loading-techniques-for-images  (image optimize)
